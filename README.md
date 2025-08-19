@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Fiona  
 
-<!--
-**nckwgo/nckwgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Founder of **Family Fun HK** – A SaaS web app for discovering family-friendly events in Hong Kong.  
 
-Here are some ideas to get you started:
+💻 Tech Stack: Next.js · Tailwind · Firebase · Stripe · GitHub Actions  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Current Projects:
+- Building Family Fun HK MVP
+- Exploring AI-powered tools for faster SaaS development
+
+📫 Contact me: [familyfun.hongkong@gmail.com](mailto:familyfun.hongkong@gmail.com)  
+
+---
+⭐ Check out my work here: [Family Fun HK Repo](https://github.com/nckwgo/family-fun-hk)
